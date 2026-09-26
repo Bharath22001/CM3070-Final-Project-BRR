@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Three impressed wedges, the unit cuneiform is written in. Drawn rather
+       than set as a character: a cuneiform codepoint in a favicon depends on a
+       font the browser may not have, and a tab showing a blank box would be a
+       worse answer than no icon at all. -->
+  <rect width="32" height="32" rx="6" fill="#1c1f25"/>
+  <g fill="#e2c07a">
+    <path d="M6 7 L16 10 L6 13 Z"/>
+    <path d="M6 15 L14 18 L6 21 Z"/>
+    <path d="M18 13 L21 25 L24 13 Z"/>
+  </g>
+</svg>

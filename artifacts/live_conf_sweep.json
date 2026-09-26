@@ -1,0 +1,234 @@
+{
+  "simulated_vision": false,
+  "unit": "tablet",
+  "cell": 2.0,
+  "min_size": 3,
+  "edge_extend": false,
+  "sweep": {
+    "0.1": {
+      "median_slots_per_real": 1.1399419899214813,
+      "slots": 5385,
+      "scored_slots": 5373,
+      "tablets_contributing": 30,
+      "tablets_total": 30,
+      "arms": {
+        "1b_vision_only_padded": {
+          "wer": 1.1067452431061222,
+          "cer": 0.887570796718123,
+          "wer_micro": 1.1060004669624095,
+          "cer_micro": 0.8805293907237391,
+          "S": 2647,
+          "D": 500,
+          "I_min": 1590,
+          "I_max": 1684,
+          "len_pred": 5373,
+          "len_truth": 4283
+        },
+        "2_threshold_mask": {
+          "wer": 1.1048499574189459,
+          "cer": 0.8001888335644902,
+          "wer_micro": 1.111370534671959,
+          "cer_micro": 0.7652319065219984,
+          "S": 2696,
+          "D": 487,
+          "I_min": 1577,
+          "I_max": 1679,
+          "len_pred": 5373,
+          "len_truth": 4283
+        },
+        "3_fusion_lam1.0": {
+          "wer": 1.075068722784844,
+          "cer": 0.8350587889233425,
+          "wer_micro": 1.0744805043194023,
+          "cer_micro": 0.8127459162990343,
+          "S": 2492,
+          "D": 510,
+          "I_min": 1600,
+          "I_max": 1712,
+          "len_pred": 5373,
+          "len_truth": 4283
+        }
+      }
+    },
+    "0.15": {
+      "median_slots_per_real": 0.9577542528800702,
+      "slots": 4726,
+      "scored_slots": 4690,
+      "tablets_contributing": 30,
+      "tablets_total": 30,
+      "arms": {
+        "1b_vision_only_padded": {
+          "wer": 1.0250710555283986,
+          "cer": 0.8240069340539047,
+          "wer_micro": 1.0070044361428905,
+          "cer_micro": 0.8030284964826517,
+          "S": 2522,
+          "D": 692,
+          "I_min": 1099,
+          "I_max": 1202,
+          "len_pred": 4690,
+          "len_truth": 4283
+        },
+        "2_threshold_mask": {
+          "wer": 1.0206076564353788,
+          "cer": 0.7559420524596283,
+          "wer_micro": 1.0072379173476536,
+          "cer_micro": 0.719983307499702,
+          "S": 2561,
+          "D": 673,
+          "I_min": 1080,
+          "I_max": 1154,
+          "len_pred": 4690,
+          "len_truth": 4283
+        },
+        "3_fusion_lam1.0": {
+          "wer": 0.995715574948855,
+          "cer": 0.757942926702156,
+          "wer_micro": 0.9764183983189353,
+          "cer_micro": 0.729939191606057,
+          "S": 2393,
+          "D": 691,
+          "I_min": 1098,
+          "I_max": 1202,
+          "len_pred": 4690,
+          "len_truth": 4283
+        }
+      }
+    },
+    "0.25": {
+      "median_slots_per_real": 0.7967494862693817,
+      "slots": 3928,
+      "scored_slots": 3913,
+      "tablets_contributing": 30,
+      "tablets_total": 30,
+      "arms": {
+        "1b_vision_only_padded": {
+          "wer": 0.9649073337253652,
+          "cer": 0.8060338444744646,
+          "wer_micro": 0.9339248190520663,
+          "cer_micro": 0.7682127101466555,
+          "S": 2188,
+          "D": 1091,
+          "I_min": 721,
+          "I_max": 799,
+          "len_pred": 3913,
+          "len_truth": 4283
+        },
+        "2_threshold_mask": {
+          "wer": 0.9488850617012623,
+          "cer": 0.7441370378876239,
+          "wer_micro": 0.9192155031519963,
+          "cer_micro": 0.693931083820198,
+          "S": 2145,
+          "D": 1081,
+          "I_min": 711,
+          "I_max": 778,
+          "len_pred": 3913,
+          "len_truth": 4283
+        },
+        "3_fusion_lam1.0": {
+          "wer": 0.9329571353559527,
+          "cer": 0.7448059522163374,
+          "wer_micro": 0.9012374503852439,
+          "cer_micro": 0.6969715035173483,
+          "S": 2024,
+          "D": 1103,
+          "I_min": 733,
+          "I_max": 808,
+          "len_pred": 3913,
+          "len_truth": 4283
+        }
+      }
+    },
+    "0.35": {
+      "median_slots_per_real": 0.6711908064196552,
+      "slots": 3364,
+      "scored_slots": 3343,
+      "tablets_contributing": 29,
+      "tablets_total": 30,
+      "arms": {
+        "1b_vision_only_padded": {
+          "wer": 0.901942400547135,
+          "cer": 0.7616828491045395,
+          "wer_micro": 0.8923651646042493,
+          "cer_micro": 0.7468105401216167,
+          "S": 1946,
+          "D": 1408,
+          "I_min": 468,
+          "I_max": 539,
+          "len_pred": 3343,
+          "len_truth": 4283
+        },
+        "2_threshold_mask": {
+          "wer": 0.886644577688976,
+          "cer": 0.7152155830276444,
+          "wer_micro": 0.8748540742470231,
+          "cer_micro": 0.6837367354238703,
+          "S": 1885,
+          "D": 1401,
+          "I_min": 461,
+          "I_max": 528,
+          "len_pred": 3343,
+          "len_truth": 4283
+        },
+        "3_fusion_lam1.0": {
+          "wer": 0.8793903613349265,
+          "cer": 0.7076283788259586,
+          "wer_micro": 0.8622460891898203,
+          "cer_micro": 0.6768808870871587,
+          "S": 1773,
+          "D": 1430,
+          "I_min": 490,
+          "I_max": 570,
+          "len_pred": 3343,
+          "len_truth": 4283
+        }
+      }
+    },
+    "0.5": {
+      "median_slots_per_real": 0.5336408640864087,
+      "slots": 2797,
+      "scored_slots": 2782,
+      "tablets_contributing": 27,
+      "tablets_total": 30,
+      "arms": {
+        "1b_vision_only_padded": {
+          "wer": 0.8887337450632161,
+          "cer": 0.7845951000212614,
+          "wer_micro": 0.8736866682232081,
+          "cer_micro": 0.756826040300465,
+          "S": 1663,
+          "D": 1790,
+          "I_min": 289,
+          "I_max": 322,
+          "len_pred": 2782,
+          "len_truth": 4283
+        },
+        "2_threshold_mask": {
+          "wer": 0.8656290149707772,
+          "cer": 0.7332514864284233,
+          "wer_micro": 0.8435675928087789,
+          "cer_micro": 0.6874329319184452,
+          "S": 1558,
+          "D": 1778,
+          "I_min": 277,
+          "I_max": 331,
+          "len_pred": 2782,
+          "len_truth": 4283
+        },
+        "3_fusion_lam1.0": {
+          "wer": 0.8653640072447842,
+          "cer": 0.7326559992434873,
+          "wer_micro": 0.8428671491944898,
+          "cer_micro": 0.6867771551210207,
+          "S": 1549,
+          "D": 1781,
+          "I_min": 280,
+          "I_max": 327,
+          "len_pred": 2782,
+          "len_truth": 4283
+        }
+      }
+    }
+  }
+}

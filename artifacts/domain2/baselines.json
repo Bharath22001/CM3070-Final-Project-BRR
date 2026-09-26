@@ -1,0 +1,50 @@
+{
+  "margins": {
+    "vs_bigram": {
+      "perplexity_reduction": 0.5052685912468959,
+      "top1_ratio": 2.2330935251798563
+    },
+    "vs_unigram": {
+      "perplexity_reduction": 0.6063778207929429,
+      "top1_ratio": 3.6009280742459397
+    }
+  },
+  "mlm_source": "artifacts/domain2/history_domain2_distilroberta_pretrained.json, best epoch by val_loss (epoch 25 of 25)",
+  "n_scored": 7001,
+  "population": "7001 masked positions in the val split, the same positions the MLM was evaluated on. N-gram tables counted over the train split only. <brk> excluded from both, since it is damage with no ground truth and is never an MLM prediction target.",
+  "rows": [
+    {
+      "loss": 5.662960480135946,
+      "model": "uniform",
+      "perplexity": 288.00000000000006,
+      "top1": 0.003472222222222222,
+      "what": "no knowledge at all"
+    },
+    {
+      "loss": 4.661761283443654,
+      "model": "unigram",
+      "perplexity": 105.82230118331927,
+      "top1": 0.06156263390944151,
+      "what": "sign frequency, zero context"
+    },
+    {
+      "loss": 4.433137789921805,
+      "model": "bigram",
+      "perplexity": 84.19518967972199,
+      "top1": 0.09927153263819455,
+      "what": "previous sign only, backing off"
+    },
+    {
+      "loss": 3.729397517663461,
+      "model": "MLM (deployed)",
+      "perplexity": 41.654004800483676,
+      "top1": 0.221682616769033,
+      "what": "distilroberta-base, bidirectional, epoch 25"
+    }
+  ],
+  "settings": {
+    "backoff_weight": 0.4,
+    "smoothing": 0.1,
+    "vocab_size": 288
+  }
+}

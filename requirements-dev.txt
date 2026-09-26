@@ -1,0 +1,17 @@
+# Development and dashboard dependencies, installed into fyp_env after
+# running .\start.ps1:
+#     python -m pip install -r requirements-dev.txt
+#
+# I keep these apart from requirements.txt, which is a pip freeze of fyp_env
+# saved as UTF-16; this file is plain UTF-8 so any editor can open it.
+# Installing these doesn't change the torch version (2.14.0+cpu).
+
+# The API
+fastapi==0.141.1
+uvicorn==0.53.0
+
+# Tests
+pytest==9.1.1
+
+# httpx 0.28.1 is already pinned in requirements.txt as an ollama transitive
+# dependency; fastapi.testclient needs it too, so it is not repeated here.

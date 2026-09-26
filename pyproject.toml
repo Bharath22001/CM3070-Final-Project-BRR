@@ -1,0 +1,14 @@
+# I only use this file for pytest settings. It isn't a packaging manifest:
+# cuneiform stays an uninstalled source package, and every script runs as
+#     python -m cuneiform.<package>.<script>
+# from the project root. pythonpath = ["."] puts the project root on sys.path
+# during tests, so imports resolve exactly as they do with python -m.
+
+[tool.pytest.ini_options]
+minversion = "9.0"
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra"
+markers = [
+    "slow: loads a real model checkpoint or runs a real subprocess. Deselect with -m 'not slow'.",
+]

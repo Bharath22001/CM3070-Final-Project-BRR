@@ -1,0 +1,29 @@
+{
+  "name": "cuneiform-dashboard",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "The dashboard for the CM3070 cuneiform pipeline. It reads the FastAPI orchestrator in cuneiform/api and shows nothing it cannot trace to that API.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "16.3.3",
+    "@testing-library/user-event": "14.6.7",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@vitejs/plugin-react": "6.1.1",
+    "jsdom": "28.1.0",
+    "typescript": "7.0.2",
+    "vite": "8.3.0",
+    "vitest": "5.0.1"
+  }
+}

@@ -1,0 +1,5336 @@
+{
+ "lookup": {
+  "11": {
+   "sign": "A",
+   "mzl": 839,
+   "ucun": "𒀀",
+   "readings": [
+    "a",
+    "ʾu₄",
+    "aia₂",
+    "aya₂",
+    "barₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "4": {
+   "sign": "NA",
+   "mzl": 110,
+   "ucun": "𒈾",
+   "readings": [
+    "na",
+    "aniku",
+    "ne₆",
+    "nu₈"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "119": {
+   "sign": "LUGAL",
+   "mzl": 266,
+   "ucun": "𒈗",
+   "readings": [
+    "lugal",
+    "bišeba?",
+    "bišebi?",
+    "ŋušurₓ",
+    "haniš₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "31": {
+   "sign": "BAD",
+   "mzl": 113,
+   "ucun": "𒁁",
+   "readings": [
+    "bad",
+    "ba₉",
+    "bada",
+    "bara₄",
+    "baragₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "62": {
+   "sign": "NI",
+   "mzl": 380,
+   "ucun": "𒉌",
+   "readings": [
+    "ni",
+    "ʾa₅",
+    "aₓ",
+    "be₃",
+    "bu₁₆"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "210": {
+   "sign": "ARAD",
+   "mzl": 18,
+   "ucun": "𒀴",
+   "readings": [
+    "arad",
+    "arda",
+    "er₃",
+    "erad?",
+    "eri₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "56": {
+   "sign": "|ME.U.U.U|",
+   "mzl": 754,
+   "ucun": "𒎌",
+   "readings": [
+    "eš₁₇",
+    "mes₃",
+    "meš",
+    "miš₂",
+    "wiš?"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "58": {
+   "sign": "KA",
+   "mzl": 24,
+   "ucun": "𒅗",
+   "readings": [
+    "ka",
+    "agu₂",
+    "birₓ",
+    "buₓ",
+    "da₁₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "14": {
+   "sign": "DIŠ",
+   "mzl": 748,
+   "ucun": "𒁹",
+   "readings": [
+    "diš",
+    "anₓ",
+    "ana",
+    "aš₁₀",
+    "barig"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "0": {
+   "sign": "<BROKEN>",
+   "mzl": 0,
+   "readings": [],
+   "ucun": null,
+   "status": "damage_placeholder"
+  },
+  "26": {
+   "sign": "AN",
+   "mzl": 10,
+   "ucun": "𒀭",
+   "readings": [
+    "an",
+    "a₁₁?",
+    "alₓ",
+    "am₆",
+    "ana₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "113": {
+   "sign": "PA",
+   "mzl": 464,
+   "ucun": "𒉺",
+   "readings": [
+    "pa",
+    "addirₓ",
+    "ari₃",
+    "aru",
+    "ba₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "229": {
+   "sign": "|EZEN×BAD|",
+   "mzl": 275,
+   "ucun": "𒂦",
+   "readings": [
+    "anₓ",
+    "ba₈",
+    "bad₃",
+    "bada₃",
+    "bat₃"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "13": {
+   "sign": "MA",
+   "mzl": 552,
+   "ucun": "𒈠",
+   "readings": [
+    "ma",
+    "peš₃",
+    "pešše",
+    "wa₆"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "100": {
+   "sign": "KI",
+   "mzl": 737,
+   "ucun": "𒆠",
+   "readings": [
+    "ki",
+    "ammaₓ",
+    "%akk erṣetu",
+    "gagar",
+    "ge₅"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "19": {
+   "sign": "E",
+   "mzl": 498,
+   "ucun": "𒂊",
+   "readings": [
+    "e",
+    "eg₂",
+    "eki",
+    "i₁₅?",
+    "ig₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "82": {
+   "sign": "LU",
+   "mzl": 812,
+   "ucun": "𒇻",
+   "readings": [
+    "lu",
+    "dulₓ",
+    "eze",
+    "lubₓ",
+    "lug"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "77": {
+   "sign": "DI",
+   "mzl": 736,
+   "ucun": "𒁲",
+   "readings": [
+    "di",
+    "de",
+    "duₓ?",
+    "sa₂",
+    "sal₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "41": {
+   "sign": "MU",
+   "mzl": 98,
+   "ucun": "𒈬",
+   "readings": [
+    "mu",
+    "gu₁₀",
+    "ŋu₁₀",
+    "i₁₄",
+    "ia₅"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "86": {
+   "sign": "|U.U.U|",
+   "mzl": 711,
+   "ucun": "𒌍",
+   "readings": [
+    "ba₃",
+    "batu",
+    "es₂",
+    "eš",
+    "eša₂"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "161": {
+   "sign": "|IGI.DIB|",
+   "mzl": 731,
+   "ucun": "𒅇",
+   "readings": [
+    "ša₁₇",
+    "u₃"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "151": {
+   "sign": "|SAL.TUG₂|",
+   "mzl": 887,
+   "ucun": "𒎏",
+   "readings": [
+    "e₅",
+    "ereš",
+    "eriš",
+    "in₅",
+    "min₄"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "35": {
+   "sign": "GAL",
+   "mzl": 553,
+   "ucun": "𒃲",
+   "readings": [
+    "gal",
+    "enₓ",
+    "gala₈",
+    "gale",
+    "kal₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "88": {
+   "sign": "UR",
+   "mzl": 828,
+   "ucun": "𒌨",
+   "readings": [
+    "ur",
+    "a₈",
+    "aia₃",
+    "aya₃",
+    "das"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "8": {
+   "sign": "RU",
+   "mzl": 111,
+   "ucun": "𒊒",
+   "readings": [
+    "ru",
+    "gešba",
+    "gešbu",
+    "gešpa",
+    "gešpu"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "87": {
+   "sign": "BU",
+   "mzl": 580,
+   "ucun": "𒁍",
+   "readings": [
+    "bu",
+    "alaₓ",
+    "bur₁₂",
+    "dim₁₃",
+    "dul₁₀"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "2": {
+   "sign": "AŠ",
+   "mzl": 1,
+   "ucun": "𒀸",
+   "readings": [
+    "aš",
+    "ana₃",
+    "as₃",
+    "aša",
+    "ašša"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "211": {
+   "sign": "|U.KA|",
+   "mzl": 663,
+   "ucun": "𒌋𒅗",
+   "readings": [
+    "ele",
+    "eli",
+    "mah₃",
+    "muh",
+    "saŋdulₓ"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "106": {
+   "sign": "|LAGAB×HAL|",
+   "mzl": 756,
+   "ucun": "𒇉",
+   "readings": [
+    "amaₓ",
+    "angur",
+    "bunig₃?",
+    "buniŋ₃?",
+    "eₓ"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "94": {
+   "sign": "HI",
+   "mzl": 631,
+   "ucun": "𒄭",
+   "readings": [
+    "hi",
+    "ʾi₃",
+    "da₁₀",
+    "dab₃",
+    "danₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "76": {
+   "sign": "RI",
+   "mzl": 142,
+   "ucun": "𒊑",
+   "readings": [
+    "ri",
+    "dal",
+    "dala",
+    "de₅",
+    "degₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "18": {
+   "sign": "TE",
+   "mzl": 589,
+   "ucun": "𒋼",
+   "readings": [
+    "te",
+    "de₄",
+    "di₁₂",
+    "gal₅",
+    "gallaₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "148": {
+   "sign": "ŠA",
+   "mzl": 566,
+   "ucun": "𒊭",
+   "readings": [
+    "ša",
+    "ara",
+    "en₈",
+    "li₅",
+    "na₅"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "134": {
+   "sign": "IŠ",
+   "mzl": 357,
+   "ucun": "𒅖",
+   "readings": [
+    "iš",
+    "es₅",
+    "eš₁₅",
+    "is₂",
+    "isi"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "190": {
+   "sign": "BUR",
+   "mzl": 559,
+   "ucun": "𒁓",
+   "readings": [
+    "bur",
+    "buru",
+    "limₓ",
+    "parₓ",
+    "pur"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "79": {
+   "sign": "IGI",
+   "mzl": 724,
+   "ucun": "𒅆",
+   "readings": [
+    "igi",
+    "bad₅",
+    "badi",
+    "bat₅",
+    "damu₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "39": {
+   "sign": "UD",
+   "mzl": 596,
+   "ucun": "𒌓",
+   "readings": [
+    "ud",
+    "a₁₂",
+    "ah₃",
+    "al₅",
+    "amna"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "16": {
+   "sign": "U",
+   "mzl": 661,
+   "ucun": "𒌋",
+   "readings": [
+    "u",
+    "a₆",
+    "barₓ",
+    "bu₁₂",
+    "bur₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "331": {
+   "sign": "KAM₂",
+   "mzl": 595,
+   "ucun": "𒆚",
+   "readings": [
+    "kam₂",
+    "eriš₇",
+    "kam~v",
+    "qamaₓ",
+    "udul₇"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "121": {
+   "sign": "A₂",
+   "mzl": 560,
+   "ucun": "𒀉",
+   "readings": [
+    "a₂",
+    "ah₅",
+    "ahi₂",
+    "ed",
+    "et"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "51": {
+   "sign": "MIN",
+   "mzl": 825,
+   "ucun": "𒈫",
+   "readings": [
+    "min",
+    "menₓ",
+    "mina",
+    "šin₂?",
+    "šina"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "17": {
+   "sign": "NU",
+   "mzl": 112,
+   "ucun": "𒉡",
+   "readings": [
+    "nu",
+    "la₃",
+    "sarₓ?",
+    "sir₅?",
+    "surₓ?"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "48": {
+   "sign": "TU",
+   "mzl": 86,
+   "ucun": "𒌅",
+   "readings": [
+    "tu",
+    "du₂",
+    "dud₂",
+    "dur₁₁",
+    "gurₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "81": {
+   "sign": "ME",
+   "mzl": 753,
+   "ucun": "𒈨",
+   "readings": [
+    "me",
+    "ba₁₃",
+    "deš₄?",
+    "diš₄?",
+    "esibₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "15": {
+   "sign": "LU₂",
+   "mzl": 514,
+   "ucun": "𒇽",
+   "readings": [
+    "lu₂",
+    "addaₓ",
+    "duₓ",
+    "giriₓ",
+    "inbir₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "105": {
+   "sign": "ERIN₂",
+   "mzl": 612,
+   "ucun": "𒂟",
+   "readings": [
+    "erin₂",
+    "erem",
+    "eren₂",
+    "erena₂",
+    "erim"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "1": {
+   "sign": "GAR",
+   "mzl": 859,
+   "ucun": "𒃻",
+   "readings": [
+    "gar",
+    "ga₄",
+    "gara",
+    "garak₅",
+    "ŋar"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "57": {
+   "sign": "AŠ₂",
+   "mzl": 548,
+   "ucun": "𒀾",
+   "readings": [
+    "aš₂",
+    "as₂",
+    "asa₂",
+    "%akk aś",
+    "aša₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "187": {
+   "sign": "|HI×AŠ₂|",
+   "mzl": 644,
+   "ucun": "𒄯",
+   "readings": [
+    "ar₃",
+    "ara₃",
+    "dubulₓ",
+    "duburₓ",
+    "ellaŋₓ"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "366": {
+   "sign": "8(DIŠ)",
+   "mzl": 864,
+   "ucun": "𒐍",
+   "readings": [
+    "8(diš)",
+    "usa",
+    "ussu"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "65": {
+   "sign": "DA",
+   "mzl": 561,
+   "ucun": "𒁕",
+   "readings": [
+    "da",
+    "aₓ",
+    "diₓ",
+    "du₂₀",
+    "idi₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "55": {
+   "sign": "PAD",
+   "mzl": 746,
+   "ucun": "𒉻",
+   "readings": [
+    "pad",
+    "bad₂",
+    "bat₂",
+    "bu₁₅",
+    "burₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "83": {
+   "sign": "TI",
+   "mzl": 118,
+   "ucun": "𒋾",
+   "readings": [
+    "ti",
+    "de₉",
+    "di₃",
+    "te₉",
+    "teŋ₄"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [
+    "TI@t"
+   ],
+   "status": "ogsl"
+  },
+  "21": {
+   "sign": "BI",
+   "mzl": 358,
+   "ucun": "𒁉",
+   "readings": [
+    "bi",
+    "batₓ",
+    "be₂",
+    "biz",
+    "dugₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "32": {
+   "sign": "IM",
+   "mzl": 641,
+   "ucun": "𒅎",
+   "readings": [
+    "im",
+    "adad",
+    "anegi",
+    "anig",
+    "anzuₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "181": {
+   "sign": "MAR",
+   "mzl": 483,
+   "ucun": "𒈥",
+   "readings": [
+    "mar",
+    "gar₇",
+    "ŋar₇",
+    "mara",
+    "muraₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "102": {
+   "sign": "GA",
+   "mzl": 491,
+   "ucun": "𒂵",
+   "readings": [
+    "ga",
+    "ebir₄",
+    "epir₄",
+    "gar₉",
+    "gara₉"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "171": {
+   "sign": "GIG",
+   "mzl": 705,
+   "ucun": "𒍼",
+   "readings": [
+    "gig",
+    "ge₁₇",
+    "gebₓ",
+    "geg",
+    "gi₁₇"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "84": {
+   "sign": "|I.A|",
+   "mzl": 260,
+   "ucun": "𒅀",
+   "readings": [
+    "ia",
+    "ie",
+    "ii",
+    "iu",
+    "yi₂"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "137": {
+   "sign": "|PA.IB|",
+   "mzl": 466,
+   "ucun": "𒉺𒅁",
+   "readings": [
+    "hamanzer",
+    "sab",
+    "saba",
+    "sap",
+    "sip₄"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "144": {
+   "sign": "|IGI.RI|",
+   "mzl": 726,
+   "ucun": "𒅈",
+   "readings": [
+    "ar",
+    "ara₈"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "70": {
+   "sign": "ŠIM",
+   "mzl": 362,
+   "ucun": "𒋆",
+   "readings": [
+    "šim",
+    "asila₂",
+    "asilal₂",
+    "asilla₂",
+    "babir₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "78": {
+   "sign": "EN",
+   "mzl": 164,
+   "ucun": "𒂗",
+   "readings": [
+    "en",
+    "ʾeₓ",
+    "ʾuₓ",
+    "adₓ",
+    "amₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "193": {
+   "sign": "URU",
+   "mzl": 71,
+   "ucun": "𒌷",
+   "readings": [
+    "uru",
+    "al₈",
+    "ala",
+    "ale",
+    "ali"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "191": {
+   "sign": "HAL",
+   "mzl": 3,
+   "ucun": "𒄬",
+   "readings": [
+    "hal",
+    "buluh",
+    "bur₈",
+    "buru₈",
+    "buruh"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "203": {
+   "sign": "ZUM",
+   "mzl": 884,
+   "ucun": "𒍮",
+   "readings": [
+    "zum",
+    "erinₓ",
+    "garig",
+    "gariŋ₂",
+    "hal₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "68": {
+   "sign": null,
+   "mzl": 851,
+   "readings": [],
+   "ucun": null,
+   "status": "absent_from_ogsl"
+  },
+  "116": {
+   "sign": "AB",
+   "mzl": 223,
+   "ucun": "𒀊",
+   "readings": [
+    "ab",
+    "aba",
+    "abba",
+    "agarinₓ",
+    "ap"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "10": {
+   "sign": "|ŠU₂.DUN₄|",
+   "mzl": 869,
+   "ucun": "𒋙𒂈",
+   "readings": [
+    "šudul",
+    "šudulu",
+    "šudun",
+    "šutul"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "296": {
+   "sign": "IL",
+   "mzl": 348,
+   "ucun": "𒅋",
+   "readings": [
+    "il",
+    "al₉",
+    "el₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "108": {
+   "sign": "LA",
+   "mzl": 89,
+   "ucun": "𒆷",
+   "readings": [
+    "la",
+    "šikₓ",
+    "šika"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "80": {
+   "sign": "I",
+   "mzl": 252,
+   "ucun": "𒄿",
+   "readings": [
+    "i",
+    "nat₂",
+    "5(aš~a)",
+    "5(aš@v)"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "129": {
+   "sign": "MAH",
+   "mzl": 91,
+   "ucun": "𒈤",
+   "readings": [
+    "mah",
+    "al₆",
+    "maha",
+    "meh",
+    "mih"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "212": {
+   "sign": "ANŠE",
+   "mzl": 353,
+   "ucun": "𒀲",
+   "readings": [
+    "anše",
+    "amaraₓ",
+    "%elx anše@d",
+    "anši",
+    "anšu"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "198": {
+   "sign": "|TE.A|",
+   "mzl": 590,
+   "ucun": "𒋼𒀀",
+   "readings": [
+    "gar₁₄",
+    "ka₁₁",
+    "kar",
+    "kara",
+    "kir₈"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "107": {
+   "sign": "SI",
+   "mzl": 181,
+   "ucun": "𒋛",
+   "readings": [
+    "si",
+    "huₓ",
+    "maₓ",
+    "se",
+    "seg₉"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "176": {
+   "sign": "TAG",
+   "mzl": 221,
+   "ucun": "𒋳",
+   "readings": [
+    "tag",
+    "da₆",
+    "daq₆",
+    "guruš₄",
+    "suₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "158": {
+   "sign": "ŠID",
+   "mzl": 485,
+   "ucun": "𒋃",
+   "readings": [
+    "šid",
+    "ag₃",
+    "aŋ₃",
+    "ak₃",
+    "aka₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "178": {
+   "sign": "UB",
+   "mzl": 504,
+   "ucun": "𒌒",
+   "readings": [
+    "ub",
+    "ar₂",
+    "ara₂",
+    "uba",
+    "ubda"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "132": {
+   "sign": "SUM",
+   "mzl": 292,
+   "ucun": "𒋧",
+   "readings": [
+    "sum",
+    "arₓ",
+    "ari₆",
+    "sar₈",
+    "se₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "89": {
+   "sign": "SA",
+   "mzl": 172,
+   "ucun": "𒊓",
+   "readings": [
+    "sa",
+    "gid₃?",
+    "%akk śa",
+    "ša₁₀"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "194": {
+   "sign": "SUR",
+   "mzl": 151,
+   "ucun": "𒋩",
+   "readings": [
+    "sur",
+    "sura",
+    "%akk śur",
+    "šarₓ",
+    "šur"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "131": {
+   "sign": "KU₃",
+   "mzl": 745,
+   "ucun": "𒆬",
+   "readings": [
+    "ku₃",
+    "kug",
+    "kuk",
+    "qu₅"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "7": {
+   "sign": "GI",
+   "mzl": 141,
+   "ucun": "𒄀",
+   "readings": [
+    "gi",
+    "aₓ",
+    "ge",
+    "gen₆",
+    "gin₆"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "5": {
+   "sign": "TA",
+   "mzl": 248,
+   "ucun": "𒋫",
+   "readings": [
+    "ta",
+    "da₂",
+    "ṭa₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "183": {
+   "sign": "AD",
+   "mzl": 258,
+   "ucun": "𒀜",
+   "readings": [
+    "ad",
+    "ab₃",
+    "aba₃",
+    "ada",
+    "ap₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "213": {
+   "sign": "DIN",
+   "mzl": 119,
+   "ucun": "𒁷",
+   "readings": [
+    "din",
+    "dan₅?",
+    "den",
+    "dini",
+    "gurun₈"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "30": {
+   "sign": "U₂",
+   "mzl": 490,
+   "ucun": "𒌑",
+   "readings": [
+    "u₂",
+    "ba₆",
+    "birₓ",
+    "bu₁₁",
+    "hazabur"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "34": {
+   "sign": "GU₂",
+   "mzl": 176,
+   "ucun": "𒄘",
+   "readings": [
+    "gu₂",
+    "gun₂",
+    "%akk/n kišādu",
+    "lil₆",
+    "qu₆"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "188": {
+   "sign": "KALAM",
+   "mzl": 500,
+   "ucun": "𒌧",
+   "readings": [
+    "kalam",
+    "kalama",
+    "kanaŋ",
+    "kanam"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "217": {
+   "sign": "DUN₃@g@g",
+   "mzl": 556,
+   "ucun": "𒂇",
+   "readings": [
+    "aga",
+    "agu",
+    "ir₁₇",
+    "mer",
+    "mere"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "27": {
+   "sign": "ŠA₃",
+   "mzl": 599,
+   "ucun": "𒊮",
+   "readings": [
+    "ša₃",
+    "didala?",
+    "iškilaₓ",
+    "lib₃",
+    "lip₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "352": {
+   "sign": null,
+   "mzl": 810,
+   "readings": [],
+   "ucun": null,
+   "status": "absent_from_ogsl"
+  },
+  "139": {
+   "sign": "GAR₃",
+   "mzl": 543,
+   "ucun": "𒃼",
+   "readings": [
+    "gar₃",
+    "ašgarₓ",
+    "gara₃",
+    "ŋar₃",
+    "kar₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "174": {
+   "sign": "|HI×NUN|",
+   "mzl": 636,
+   "ucun": "𒄴",
+   "readings": [
+    "aʾ₂?",
+    "ah",
+    "aha",
+    "bi₉?",
+    "duga₃"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "147": {
+   "sign": "DUN₃",
+   "mzl": 836,
+   "ucun": "𒂅",
+   "readings": [
+    "dun₃",
+    "du₅",
+    "dug₅",
+    "dulₓ",
+    "ginₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [
+    "DUN₃@g"
+   ],
+   "status": "ogsl"
+  },
+  "90": {
+   "sign": "HU",
+   "mzl": 132,
+   "ucun": "𒄷",
+   "readings": [
+    "hu",
+    "ʾu₅",
+    "bag",
+    "bah",
+    "bak"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "109": {
+   "sign": "ZU",
+   "mzl": 15,
+   "ucun": "𒍪",
+   "readings": [
+    "zu",
+    "ka₁₄",
+    "ki₆",
+    "su₂",
+    "sudₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "36": {
+   "sign": "TUR",
+   "mzl": 255,
+   "ucun": "𒌉",
+   "readings": [
+    "tur",
+    "ban₃",
+    "banda₃",
+    "buₓ",
+    "damu"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "165": {
+   "sign": "IR",
+   "mzl": 437,
+   "ucun": "𒅕",
+   "readings": [
+    "ir",
+    "er",
+    "ere₁₄",
+    "ereš₃",
+    "%akk erešu"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "49": {
+   "sign": "MAŠ",
+   "mzl": 120,
+   "ucun": "𒈦",
+   "readings": [
+    "maš",
+    "ba₇",
+    "ma₇",
+    "mas",
+    "%akk maś"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "25": {
+   "sign": "DU",
+   "mzl": 350,
+   "ucun": "𒁺",
+   "readings": [
+    "du",
+    "ar₆",
+    "ara₆?",
+    "aragub",
+    "de₆"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "156": {
+   "sign": "IG",
+   "mzl": 136,
+   "ucun": "𒅅",
+   "readings": [
+    "ig",
+    "da₁₁?",
+    "eg",
+    "ek",
+    "eq"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "38": {
+   "sign": "KU",
+   "mzl": 808,
+   "ucun": "𒆪",
+   "readings": [
+    "ku",
+    "be₅",
+    "bed₃",
+    "bet₃",
+    "bi₇"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "28": {
+   "sign": "GIŠ",
+   "mzl": 469,
+   "ucun": "𒄑",
+   "readings": [
+    "giš",
+    "bilgaₓ",
+    "es",
+    "eš₁₉",
+    "eṣ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "277": {
+   "sign": "MA₂",
+   "mzl": 201,
+   "ucun": "𒈣",
+   "readings": [
+    "ma₂",
+    "huₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "42": {
+   "sign": "RA",
+   "mzl": 511,
+   "ucun": "𒊏",
+   "readings": [
+    "ra",
+    "rah₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "136": {
+   "sign": "LIŠ",
+   "mzl": 591,
+   "ucun": "𒇺",
+   "readings": [
+    "liš",
+    "del₂",
+    "dili₂",
+    "dilim₂",
+    "li₁₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "322": {
+   "sign": "DUN₄",
+   "mzl": 557,
+   "ucun": "𒂈",
+   "readings": [
+    "dun₄",
+    "dul₄",
+    "migir₂",
+    "nigir₂",
+    "niŋir₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "3": {
+   "sign": "E₂",
+   "mzl": 495,
+   "ucun": "𒂍",
+   "readings": [
+    "e₂",
+    "ʾa₃",
+    "a₁₄",
+    "aʾ₃",
+    "bed"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "353": {
+   "sign": "DIB",
+   "mzl": 813,
+   "ucun": "𒁳",
+   "readings": [
+    "dib",
+    "dab",
+    "daba",
+    "dabe",
+    "dap"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "43": {
+   "sign": "ŠE",
+   "mzl": 579,
+   "ucun": "𒊺",
+   "readings": [
+    "še",
+    "ašnan₂",
+    "nigₓ",
+    "niga",
+    "nigan"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "201": {
+   "sign": "|HI×ŠE|",
+   "mzl": 643,
+   "ucun": "𒄵",
+   "readings": [
+    "ber",
+    "bir",
+    "biri",
+    "dubur",
+    "ellag₂"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "110": {
+   "sign": "ZI",
+   "mzl": 140,
+   "ucun": "𒍣",
+   "readings": [
+    "zi",
+    "se₂",
+    "si₂",
+    "ṣe₂",
+    "ṣi₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "117": {
+   "sign": "LAGAB",
+   "mzl": 755,
+   "ucun": "𒆸",
+   "readings": [
+    "lagab",
+    "ella₂",
+    "ellag",
+    "ellaŋ",
+    "gerin"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "37": {
+   "sign": "|U.GUD|",
+   "mzl": 698,
+   "ucun": "𒌌",
+   "readings": [
+    "du₇",
+    "mul₄",
+    "raₓ",
+    "ru₅",
+    "ul"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "111": {
+   "sign": "HA",
+   "mzl": 856,
+   "ucun": "𒄩",
+   "readings": [
+    "ha",
+    "ʾa₄",
+    "a₇",
+    "ayaₓ",
+    "gir₁₄"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "349": {
+   "sign": "|LAGAB×(U.U.U)|",
+   "mzl": 788,
+   "ucun": "𒇧",
+   "readings": [
+    "bu₅",
+    "bul",
+    "bur₁₀",
+    "buruₓ",
+    "duₓ"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "23": {
+   "sign": "LI",
+   "mzl": 85,
+   "ucun": "𒇷",
+   "readings": [
+    "li",
+    "en₃",
+    "gub₂",
+    "gup₂?",
+    "le"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "24": {
+   "sign": "BA",
+   "mzl": 14,
+   "ucun": "𒁀",
+   "readings": [
+    "ba",
+    "be₄",
+    "bi₆",
+    "libit",
+    "pa₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "170": {
+   "sign": "SAL",
+   "mzl": 883,
+   "ucun": "𒊩",
+   "readings": [
+    "sal",
+    "gal₄",
+    "galaₓ",
+    "galla₄",
+    "gambiₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "173": {
+   "sign": "|U.U|",
+   "mzl": 708,
+   "ucun": "𒎙",
+   "readings": [
+    "amna₂",
+    "buzur₂",
+    "gešₓ",
+    "gišₓ",
+    "ma₁₀"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "218": {
+   "sign": "ZIB",
+   "mzl": 628,
+   "ucun": "𒍦",
+   "readings": [
+    "zib",
+    "kad₆",
+    "sib₃",
+    "sip₃",
+    "sum₅"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "219": {
+   "sign": "GAM",
+   "mzl": 576,
+   "ucun": "𒃵",
+   "readings": [
+    "gam",
+    "ar₅",
+    "asudₓ",
+    "azudₓ",
+    "dilimₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "227": {
+   "sign": "LAM",
+   "mzl": 693,
+   "ucun": "𒇴",
+   "readings": [
+    "lam",
+    "ešₓ",
+    "la₁₂",
+    "lama",
+    "lammaₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "47": {
+   "sign": "LAL",
+   "mzl": 750,
+   "ucun": "𒇲",
+   "readings": [
+    "lal",
+    "la₂",
+    "luₓ",
+    "sur₅",
+    "suru₅"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "159": {
+   "sign": "AL",
+   "mzl": 474,
+   "ucun": "𒀠",
+   "readings": [
+    "al",
+    "ala₃",
+    "il₁₀",
+    "mah₂",
+    "maha₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "288": {
+   "sign": "NE@s",
+   "mzl": 312,
+   "ucun": "𒉋",
+   "readings": [
+    "bel₂",
+    "bi₅",
+    "bil₂",
+    "ge₁₀",
+    "gi₁₀"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "216": {
+   "sign": "|U.TUG₂|",
+   "mzl": 720,
+   "ucun": "𒌋𒌆",
+   "readings": [
+    "dul",
+    "šudul₂",
+    "šudun₂",
+    "šutul₂",
+    "tul"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "195": {
+   "sign": "ZE₂",
+   "mzl": 259,
+   "ucun": "𒍢",
+   "readings": [
+    "ze₂",
+    "se₂₀",
+    "si₂₀",
+    "ṣe",
+    "ṣi"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "242": {
+   "sign": "ŠUBUR",
+   "mzl": 22,
+   "ucun": "𒋚",
+   "readings": [
+    "šubur",
+    "sah₂?",
+    "saha",
+    "sih",
+    "subar"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "143": {
+   "sign": "ŠEŠ",
+   "mzl": 535,
+   "ucun": "𒋀",
+   "readings": [
+    "šeš",
+    "ah₂",
+    "aha₂",
+    "ahi",
+    "mun₄"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "220": {
+   "sign": "5(DIŠ)",
+   "mzl": 861,
+   "ucun": "𒐊",
+   "readings": [
+    "5(diš)",
+    "i₂",
+    "ia₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "311": {
+   "sign": "MES",
+   "mzl": 486,
+   "ucun": "𒈩",
+   "readings": [
+    "mes",
+    "dubₓ?",
+    "kišib",
+    "mesa?",
+    "mesi"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "64": {
+   "sign": "NUN",
+   "mzl": 143,
+   "ucun": "𒉣",
+   "readings": [
+    "nun",
+    "abₓ",
+    "dabaₓ",
+    "erida",
+    "eridu"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "135": {
+   "sign": "ŠAR₂",
+   "mzl": 632,
+   "ucun": "𒊹",
+   "readings": [
+    "šar₂",
+    "sar₂",
+    "sara₂",
+    "sare₂",
+    "šara₆"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "99": {
+   "sign": "KID",
+   "mzl": 484,
+   "ucun": "𒆤",
+   "readings": [
+    "kid",
+    "adgubₓ",
+    "burₓ",
+    "buru₆",
+    "ge₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "73": {
+   "sign": "SU",
+   "mzl": 16,
+   "ucun": "𒋢",
+   "readings": [
+    "su",
+    "eₓ",
+    "guš",
+    "kus",
+    "kuš"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "46": {
+   "sign": "NE",
+   "mzl": 313,
+   "ucun": "𒉈",
+   "readings": [
+    "ne",
+    "bar₇",
+    "baraₓ",
+    "be₇",
+    "bel"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "98": {
+   "sign": "KUR",
+   "mzl": 578,
+   "ucun": "𒆳",
+   "readings": [
+    "kur",
+    "amma",
+    "anubu",
+    "ge₂₁?",
+    "gen₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "152": {
+   "sign": "SUD₂",
+   "mzl": 139,
+   "ucun": "𒋥",
+   "readings": [
+    "sud₂",
+    "ildag",
+    "mešezanₓ",
+    "ra₄",
+    "rad"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "155": {
+   "sign": "PI",
+   "mzl": 598,
+   "ucun": "𒉿",
+   "readings": [
+    "pi",
+    "a₃",
+    "am₇",
+    "aw",
+    "baₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "140": {
+   "sign": "PAP",
+   "mzl": 92,
+   "ucun": "𒉽",
+   "readings": [
+    "pap",
+    "aha₃",
+    "ba₁₄",
+    "bab",
+    "bap"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [
+    "|PAP.PAP×ŠE|"
+   ],
+   "status": "ogsl"
+  },
+  "112": {
+   "sign": "MUŠ",
+   "mzl": 585,
+   "ucun": "𒈲",
+   "readings": [
+    "muš",
+    "imdudu",
+    "irhan",
+    "mus",
+    "muṣ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "96": {
+   "sign": "ŠU",
+   "mzl": 567,
+   "ucun": "𒋗",
+   "readings": [
+    "šu",
+    "giriₓ",
+    "kat₇",
+    "qad",
+    "qat"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "234": {
+   "sign": "UZ",
+   "mzl": 583,
+   "readings": [],
+   "ucun": null,
+   "status": "mzl_kwu_concordance",
+   "source": "00etc/mzl-kwu.tsv (MZL583)"
+  },
+  "168": {
+   "sign": "GUL",
+   "mzl": 682,
+   "ucun": "𒄢",
+   "readings": [
+    "gul",
+    "gugₓ",
+    "gulu",
+    "isi₂",
+    "isim₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "287": {
+   "sign": "|PIRIG×UD|",
+   "mzl": 296,
+   "ucun": "𒊌",
+   "readings": [
+    "pirig₃",
+    "piriŋ₃",
+    "u₂₁",
+    "udₓ",
+    "ug"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "59": {
+   "sign": "LUM",
+   "mzl": 900,
+   "ucun": "𒈝",
+   "readings": [
+    "lum",
+    "gamₓ",
+    "gu₁₅",
+    "gud₆",
+    "gum₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "45": {
+   "sign": "UŠ",
+   "mzl": 381,
+   "ucun": "𒍑",
+   "readings": [
+    "uš",
+    "geš₃",
+    "giš₃",
+    "gurušₓ",
+    "ŋeš₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "20": {
+   "sign": "AK",
+   "mzl": 127,
+   "ucun": "𒀝",
+   "readings": [
+    "ak",
+    "a₅",
+    "ag",
+    "aka",
+    "akiₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "160": {
+   "sign": "IN",
+   "mzl": 261,
+   "ucun": "𒅔",
+   "readings": [
+    "in",
+    "en₆",
+    "gir₁₂",
+    "ini",
+    "isin₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "115": {
+   "sign": "|PIRIG×ZA|",
+   "mzl": 297,
+   "ucun": "𒊍",
+   "readings": [
+    "as",
+    "asa",
+    "aṣ",
+    "az",
+    "aza"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "97": {
+   "sign": "SILA₃",
+   "mzl": 99,
+   "ucun": "𒋡",
+   "readings": [
+    "sila₃",
+    "ga₅",
+    "ka₄",
+    "qa",
+    "%akk/n qû"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "164": {
+   "sign": "KIN",
+   "mzl": 815,
+   "ucun": "𒆥",
+   "readings": [
+    "kin",
+    "gur₁₀",
+    "ken",
+    "ki₉",
+    "kig₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "157": {
+   "sign": "UM",
+   "mzl": 238,
+   "ucun": "𒌝",
+   "readings": [
+    "um",
+    "deh₂",
+    "dehi₂",
+    "dih₂",
+    "dihi₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "347": {
+   "sign": "|LAGAB×SUM|",
+   "mzl": 767,
+   "ucun": "𒇡",
+   "readings": [
+    "bu₁₄",
+    "bul₅",
+    "buru₁₆",
+    "sar₆",
+    "sur₈"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "312": {
+   "sign": "|KAL×BAD|",
+   "mzl": 497,
+   "ucun": "𒆘",
+   "readings": [
+    "alad"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "200": {
+   "sign": "|GUD×KUR|",
+   "mzl": 309,
+   "ucun": "𒄠",
+   "readings": [
+    "am",
+    "ama₂",
+    "eldig",
+    "ildag₃"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "279": {
+   "sign": "TAB",
+   "mzl": 209,
+   "ucun": "𒋰",
+   "readings": [
+    "tab",
+    "dab₂",
+    "dap₂",
+    "dapa₂",
+    "manₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "75": {
+   "sign": "KAM",
+   "mzl": 640,
+   "ucun": null,
+   "readings": [],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "manual",
+   "manual_source": "osl.asl line 22123 (@inote under @sign KAM2): 'MZL640=KAM(|HI.BAD|)'"
+  },
+  "126": {
+   "sign": "KAL",
+   "mzl": 496,
+   "ucun": "𒆗",
+   "readings": [
+    "kal",
+    "alad₂?",
+    "baštum",
+    "dan",
+    "dana₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "252": {
+   "sign": "|URU×URUDA|",
+   "mzl": 75,
+   "ucun": "𒍎",
+   "readings": [
+    "bansur",
+    "banšur",
+    "banšura",
+    "pansur",
+    "panšur"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "337": {
+   "sign": "|AMAR×ŠE|",
+   "mzl": 696,
+   "ucun": "𒀬",
+   "readings": [
+    "disgur",
+    "siskur",
+    "siškur",
+    "sizkur"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "215": {
+   "sign": "KA₂",
+   "mzl": 222,
+   "ucun": "𒆍",
+   "readings": [
+    "ka₂",
+    "aganₓ",
+    "aka₄",
+    "akan₂",
+    "baba₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "351": {
+   "sign": "TUG₂",
+   "mzl": 809,
+   "ucun": "𒌆",
+   "readings": [
+    "tug₂",
+    "ašlag₂",
+    "azalag₂",
+    "azlag₂",
+    "dašgari"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "52": {
+   "sign": "DUH",
+   "mzl": 298,
+   "ucun": "𒂃",
+   "readings": [
+    "duh",
+    "du₈",
+    "tuh"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "6": {
+   "sign": "NAM",
+   "mzl": 134,
+   "ucun": "𒉆",
+   "readings": [
+    "nam",
+    "ber₅",
+    "bir₅",
+    "na₇",
+    "pir₆"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "281": {
+   "sign": "4(AŠ)",
+   "mzl": 215,
+   "ucun": "𒐂",
+   "readings": [
+    "4(aš)",
+    "4(iku)",
+    "arba",
+    "arrap",
+    "erba"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "192": {
+   "sign": "GUM",
+   "mzl": 339,
+   "ucun": "𒄣",
+   "readings": [
+    "gum",
+    "gas₂?",
+    "gaz⁻",
+    "gaz₂",
+    "gu₈"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "196": {
+   "sign": "GIR₂",
+   "mzl": 6,
+   "ucun": "𒄈",
+   "readings": [
+    "gir₂",
+    "gaggimₓ",
+    "garₓ",
+    "ger₂",
+    "giri₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "114": {
+   "sign": "IB",
+   "mzl": 807,
+   "ucun": "𒅁",
+   "readings": [
+    "ib",
+    "arkabₓ",
+    "dar₂",
+    "dara₂",
+    "dari₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "223": {
+   "sign": "LIL",
+   "mzl": 544,
+   "ucun": "𒇸",
+   "readings": [
+    "lil",
+    "il₉?",
+    "kuₓ",
+    "kurₓ",
+    "sukuₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "104": {
+   "sign": "SAG",
+   "mzl": 184,
+   "ucun": "𒊕",
+   "readings": [
+    "sag",
+    "akaₓ",
+    "dilibₓ",
+    "dul₇",
+    "dunga"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "54": {
+   "sign": "3(DIŠ)",
+   "mzl": 834,
+   "ucun": "𒐈",
+   "readings": [
+    "3(diš)"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "261": {
+   "sign": "KUN",
+   "mzl": 131,
+   "ucun": "𒆲",
+   "readings": [
+    "kun",
+    "ku₁₄",
+    "kuŋ₂",
+    "kunu",
+    "megidaₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "101": {
+   "sign": "GUR",
+   "mzl": 180,
+   "ucun": "𒄥",
+   "readings": [
+    "gur",
+    "gura",
+    "guru",
+    "kur₃",
+    "qur"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "307": {
+   "sign": "|DAG.KISIM₅×X|",
+   "mzl": 438,
+   "ucun": "𒁖X",
+   "readings": [
+    "ku₁₂",
+    "lu₁₀"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "40": {
+   "sign": "TAR",
+   "mzl": 9,
+   "ucun": "𒋻",
+   "readings": [
+    "tar",
+    "dar₆",
+    "gud₄",
+    "has",
+    "haš"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "228": {
+   "sign": "APIN",
+   "mzl": 90,
+   "ucun": "𒀳",
+   "readings": [
+    "apin",
+    "absin₃",
+    "abšin₃",
+    "apina",
+    "bin"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "205": {
+   "sign": "|UD×(U.U.U)|",
+   "mzl": 20,
+   "ucun": "𒌗",
+   "readings": [
+    "a₁₃",
+    "%akk/n arhu",
+    "du₁₆",
+    "id₈",
+    "iti"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "120": {
+   "sign": "DU@g",
+   "mzl": 351,
+   "ucun": "𒁼",
+   "readings": [
+    "gim₅?",
+    "gir₆",
+    "giri₆",
+    "im₅?",
+    "%akk išdu"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "22": {
+   "sign": "MI",
+   "mzl": 681,
+   "ucun": "𒈪",
+   "readings": [
+    "mi",
+    "anzuₓ",
+    "dugud₂?",
+    "ga₁₂?",
+    "ge₆"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "365": {
+   "sign": "7(DIŠ)",
+   "mzl": 863,
+   "ucun": "𒐌",
+   "readings": [
+    "7(diš)",
+    "imin",
+    "imina",
+    "umun₇",
+    "umunaₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [
+    "IMIN"
+   ],
+   "status": "ogsl"
+  },
+  "232": {
+   "sign": "|AN&AN|",
+   "mzl": 246,
+   "ucun": "𒀮",
+   "readings": [
+    "malₓ",
+    "mulₓ",
+    "nab",
+    "nap",
+    "nubₓ"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "259": {
+   "sign": "BAR",
+   "mzl": 121,
+   "ucun": "𒁇",
+   "readings": [
+    "bar",
+    "ba₁₅",
+    "bara",
+    "bare",
+    "par₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "185": {
+   "sign": "GIR₃",
+   "mzl": 701,
+   "ucun": "𒄊",
+   "readings": [
+    "gir₃",
+    "anše₂",
+    "anšu₂",
+    "birₓ",
+    "er₉"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "124": {
+   "sign": "GAN",
+   "mzl": 253,
+   "ucun": "𒃶",
+   "readings": [
+    "gan",
+    "duganₓ",
+    "gam₄",
+    "gana",
+    "he₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "226": {
+   "sign": "LUL",
+   "mzl": 570,
+   "ucun": "𒈜",
+   "readings": [
+    "lul",
+    "bah₃",
+    "buh",
+    "dugaₓ",
+    "dunga₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "202": {
+   "sign": "ŠIR",
+   "mzl": 115,
+   "ucun": "𒋓",
+   "readings": [
+    "šir",
+    "as₅",
+    "aš₇",
+    "ašgi₂",
+    "sil₈"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "103": {
+   "sign": "ALEPH",
+   "mzl": 635,
+   "ucun": "𒀪",
+   "readings": [
+    "ʾ",
+    "ʾa",
+    "ʾe",
+    "ʾi",
+    "ʾu"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "44": {
+   "sign": "KAK",
+   "mzl": 379,
+   "ucun": "𒆕",
+   "readings": [
+    "kak",
+    "ban₄",
+    "biₓ",
+    "da₃",
+    "du₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "225": {
+   "sign": "ZAG",
+   "mzl": 540,
+   "ucun": "𒍠",
+   "readings": [
+    "zag",
+    "bute",
+    "buti",
+    "butu",
+    "en₇"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "125": {
+   "sign": null,
+   "mzl": 729,
+   "readings": [],
+   "ucun": null,
+   "status": "absent_from_ogsl"
+  },
+  "224": {
+   "sign": "KUL",
+   "mzl": 117,
+   "ucun": "𒆰",
+   "readings": [
+    "kul",
+    "gu₉",
+    "gul₂",
+    "ŋu₉",
+    "ku₉"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "250": {
+   "sign": "|KA×A|",
+   "mzl": 64,
+   "ucun": "𒅘",
+   "readings": [
+    "emma₂",
+    "emmen₂",
+    "emmin₂",
+    "enmen₂",
+    "gab₃"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "240": {
+   "sign": "MUG",
+   "mzl": 12,
+   "ucun": "𒈮",
+   "readings": [
+    "mug",
+    "buk",
+    "gaggim",
+    "gagim",
+    "gakim"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "209": {
+   "sign": "KASKAL",
+   "mzl": 302,
+   "ucun": "𒆜",
+   "readings": [
+    "kaskal",
+    "bu₂",
+    "buš",
+    "danₓ",
+    "dana₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "373": {
+   "sign": null,
+   "mzl": 905,
+   "readings": [],
+   "ucun": null,
+   "status": "absent_from_ogsl"
+  },
+  "95": {
+   "sign": "|U.5(DIŠ)|",
+   "mzl": 747,
+   "ucun": "𒌋𒐊",
+   "readings": [
+    "sarₓ",
+    "udilia",
+    "udiliyaₓ",
+    "uia",
+    "uya"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "362": {
+   "sign": null,
+   "mzl": 852,
+   "readings": [],
+   "ucun": null,
+   "status": "absent_from_ogsl"
+  },
+  "53": {
+   "sign": "AMAR",
+   "mzl": 695,
+   "ucun": "𒀫",
+   "readings": [
+    "amar",
+    "mar₂",
+    "mara₂",
+    "marad",
+    "surₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "122": {
+   "sign": "AB₂",
+   "mzl": 672,
+   "ucun": "𒀖",
+   "readings": [
+    "ab₂",
+    "ap₂",
+    "le₈",
+    "let",
+    "li₈"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "72": {
+   "sign": "SAR",
+   "mzl": 541,
+   "ucun": "𒊬",
+   "readings": [
+    "sar",
+    "e₁₄",
+    "kiri₆",
+    "ma₄",
+    "mu₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "179": {
+   "sign": "HA@g",
+   "mzl": 558,
+   "ucun": "𒄫",
+   "readings": [
+    "bis₂",
+    "biš",
+    "buš₂",
+    "ger",
+    "gir"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "145": {
+   "sign": "KAB",
+   "mzl": 148,
+   "ucun": "𒆏",
+   "readings": [
+    "kab",
+    "gab₂",
+    "gaba₂",
+    "gabu₂",
+    "gap₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "214": {
+   "sign": "DUN",
+   "mzl": 744,
+   "ucun": "𒂄",
+   "readings": [
+    "dun",
+    "du₂₄",
+    "duna",
+    "dur₉",
+    "duru₉"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "327": {
+   "sign": "URI",
+   "mzl": 574,
+   "ucun": "𒌵",
+   "readings": [
+    "uri",
+    "ari",
+    "irₓ",
+    "kinda₂",
+    "tila"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "370": {
+   "sign": "GU",
+   "mzl": 891,
+   "ucun": "𒄖",
+   "readings": [
+    "gu",
+    "ahₓ",
+    "gumₓ?",
+    "ku₈",
+    "qu₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "118": {
+   "sign": "|GA₂×(NUN&NUN)|",
+   "mzl": 411,
+   "ucun": "𒃡",
+   "readings": [
+    "gušur?",
+    "ŋušur",
+    "ur₃",
+    "ura₃",
+    "uru₁₂"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "342": {
+   "sign": "LAGAR@g",
+   "mzl": 721,
+   "ucun": "𒇯",
+   "readings": [
+    "du₆",
+    "dul₆",
+    "labₓ",
+    "til₂",
+    "tu₂₁"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "320": {
+   "sign": "BARA₂",
+   "mzl": 554,
+   "ucun": "𒁈",
+   "readings": [
+    "bara₂",
+    "bar₂",
+    "barag",
+    "par₆?",
+    "para₁₀"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "235": {
+   "sign": "|LAGAB×BAD|",
+   "mzl": 760,
+   "ucun": "𒇀",
+   "readings": [
+    "dulₓ",
+    "gigir",
+    "gigira",
+    "pu₆",
+    "tul₈"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "153": {
+   "sign": "5(U)",
+   "mzl": 714,
+   "ucun": "𒐐",
+   "readings": [
+    "5(u)",
+    "illil₂",
+    "kingusila₂",
+    "kingusili₂",
+    "mullil"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "284": {
+   "sign": "|AB×HA|",
+   "mzl": 236,
+   "ucun": "𒀏",
+   "readings": [
+    "agarinₓ",
+    "aŋarinₓ",
+    "nanše",
+    "našše",
+    "nazi"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "204": {
+   "sign": "UZU",
+   "mzl": 311,
+   "ucun": "𒍜",
+   "readings": [
+    "uzu",
+    "šer₄",
+    "šeru",
+    "šir₄",
+    "širam"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "249": {
+   "sign": "|KA×ME|",
+   "mzl": 61,
+   "ucun": "𒅴",
+   "readings": [
+    "em₄",
+    "eme",
+    "lišanₓ",
+    "uli"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "91": {
+   "sign": "DAM",
+   "mzl": 889,
+   "ucun": "𒁮",
+   "readings": [
+    "dam",
+    "da₄",
+    "dama",
+    "dum₃?",
+    "lam₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "184": {
+   "sign": "BAL",
+   "mzl": 5,
+   "ucun": "𒁄",
+   "readings": [
+    "bal",
+    "bala",
+    "balak",
+    "bul₃",
+    "kulₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "258": {
+   "sign": "KAD₃",
+   "mzl": 109,
+   "ucun": "𒆑",
+   "readings": [
+    "kad₃",
+    "gat₃",
+    "kat₃",
+    "kata₃",
+    "kud₆"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "292": {
+   "sign": "ZIG",
+   "mzl": 336,
+   "ucun": "𒍨",
+   "readings": [
+    "zig",
+    "haš₂",
+    "heš₂",
+    "hiš₂",
+    "ṣib₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "285": {
+   "sign": "MA@g",
+   "mzl": 270,
+   "ucun": "𒈢",
+   "readings": [
+    "durba",
+    "hašhur"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "186": {
+   "sign": "|GU₂×KAK|",
+   "mzl": 178,
+   "ucun": "𒄙",
+   "readings": [
+    "dur",
+    "tur₂",
+    "ṭur",
+    "ṭuru",
+    "usan₆"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "154": {
+   "sign": "|URU×MIN|",
+   "mzl": 80,
+   "ucun": "𒍇",
+   "readings": [
+    "gal₃?",
+    "gišgal",
+    "ŋešgal",
+    "ŋišgal",
+    "išdayaₓ"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "260": {
+   "sign": "1(BAN₂)",
+   "mzl": 122,
+   "ucun": "𒑏",
+   "readings": [
+    "1(ban₂)",
+    "ban₂",
+    "banda₂",
+    "sutₓ",
+    "sutu"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "364": {
+   "sign": "6(DIŠ)",
+   "mzl": 862,
+   "ucun": "𒐋",
+   "readings": [
+    "6(diš)",
+    "aš₃",
+    "aša₃",
+    "ašša₃",
+    "dešaₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "340": {
+   "sign": "4(U)",
+   "mzl": 712,
+   "ucun": "𒐏",
+   "readings": [
+    "4(u)",
+    "limmu₃",
+    "limu₃",
+    "nimin",
+    "nimina"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "177": {
+   "sign": "LUH",
+   "mzl": 494,
+   "ucun": "𒈛",
+   "readings": [
+    "luh",
+    "huluh",
+    "lah₃",
+    "laha₃?",
+    "lih₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "69": {
+   "sign": "|SI.A|",
+   "mzl": 207,
+   "ucun": "𒋛𒀀",
+   "readings": [
+    "dir",
+    "diri",
+    "dirig",
+    "du₂₆",
+    "mal₂"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "237": {
+   "sign": "RAB",
+   "mzl": 262,
+   "ucun": "𒊐",
+   "readings": [
+    "rab",
+    "raba",
+    "rap"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "355": {
+   "sign": "EREN",
+   "mzl": 818,
+   "ucun": "𒂞",
+   "readings": [
+    "eren",
+    "erena",
+    "erin",
+    "erina",
+    "inšušinaₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "141": {
+   "sign": "KIB",
+   "mzl": 378,
+   "readings": [],
+   "ucun": null,
+   "status": "mzl_kwu_concordance",
+   "source": "00etc/mzl-kwu.tsv (MZL378)"
+  },
+  "67": {
+   "sign": "DUG",
+   "mzl": 499,
+   "ucun": "𒂁",
+   "readings": [
+    "dug",
+    "biₓ",
+    "duk",
+    "duka",
+    "duq"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "146": {
+   "sign": "EGIR",
+   "mzl": 356,
+   "ucun": "𒂕",
+   "readings": [
+    "egir",
+    "eger",
+    "egera",
+    "eŋer",
+    "eŋera"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "61": {
+   "sign": "DUB",
+   "mzl": 242,
+   "ucun": "𒁾",
+   "readings": [
+    "dub",
+    "dab₄",
+    "deh",
+    "dehi",
+    "dih"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "264": {
+   "sign": "MUŠ₃@g",
+   "mzl": 152,
+   "ucun": "𒈽",
+   "readings": [
+    "muš₂",
+    "se₂₈",
+    "sed₇",
+    "sedi₇",
+    "sih₄"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "265": {
+   "sign": "MUŠ₃",
+   "mzl": 153,
+   "ucun": "𒈹",
+   "readings": [
+    "muš₃",
+    "ennin",
+    "ga-ša-an-an-na",
+    "inana",
+    "inanna"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "358": {
+   "sign": "TUK",
+   "mzl": 827,
+   "ucun": "𒌇",
+   "readings": [
+    "tuk",
+    "du₁₂",
+    "duk₂",
+    "dukuₓ",
+    "raš₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "301": {
+   "sign": "|GA₂×AN|",
+   "mzl": 392,
+   "ucun": "𒂼",
+   "readings": [
+    "ama",
+    "ame",
+    "ami",
+    "ammaₓ",
+    "arhuš₄?"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "266": {
+   "sign": "GAD",
+   "mzl": 157,
+   "ucun": "𒃰",
+   "readings": [
+    "gad",
+    "gada",
+    "gadu",
+    "gat",
+    "gid₄?"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "255": {
+   "sign": "|GI%GI|",
+   "mzl": 105,
+   "ucun": "𒄃",
+   "readings": [
+    "esir₄",
+    "ge₁₆",
+    "gel",
+    "geleŋ",
+    "gi₁₆"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "233": {
+   "sign": "|MU&MU|",
+   "mzl": 301,
+   "ucun": "𒈭",
+   "readings": [
+    "dah",
+    "siskurₓ",
+    "tah",
+    "taha",
+    "tuh₂"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "231": {
+   "sign": "DIM",
+   "mzl": 167,
+   "ucun": "𒁴",
+   "readings": [
+    "dim",
+    "di₁₁",
+    "dum₄",
+    "mun₃",
+    "tam₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "350": {
+   "sign": "|LAGAB×A|",
+   "mzl": 795,
+   "ucun": "𒆹",
+   "readings": [
+    "a₉",
+    "aʾa₃",
+    "abbar",
+    "abbaraₓ",
+    "ablal₂?"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "282": {
+   "sign": "URUDA",
+   "mzl": 230,
+   "ucun": "𒍏",
+   "readings": [
+    "uruda",
+    "da₅",
+    "dab₆",
+    "mebulug",
+    "menbulug"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "336": {
+   "sign": "NA₂",
+   "mzl": 689,
+   "ucun": "𒈿",
+   "readings": [
+    "na₂",
+    "daramₓ",
+    "gešnu₃",
+    "ŋešnu₃",
+    "nad₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "310": {
+   "sign": "GUD",
+   "mzl": 472,
+   "ucun": "𒄞",
+   "readings": [
+    "gud",
+    "alap",
+    "%akk alpu",
+    "aštub",
+    "bahar"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "208": {
+   "sign": "|KA×GAR|",
+   "mzl": 65,
+   "ucun": "𒅥",
+   "readings": [
+    "bunₓ",
+    "gu₇",
+    "ku₂",
+    "kur₈?",
+    "subₓ"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "367": {
+   "sign": "ILIMMU",
+   "mzl": 868,
+   "ucun": "𒑆",
+   "readings": [
+    "ilimmu",
+    "9(diš)~a"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "369": {
+   "sign": "SIG",
+   "mzl": 881,
+   "ucun": "𒋝",
+   "readings": [
+    "sig",
+    "bek",
+    "big",
+    "bik",
+    "epig"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "12": {
+   "sign": "DIM₂",
+   "mzl": 686,
+   "ucun": "𒁶",
+   "readings": [
+    "dim₂",
+    "dem₂",
+    "diₓ",
+    "dima₂",
+    "ge₁₈"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "354": {
+   "sign": "SIK₂",
+   "mzl": 816,
+   "ucun": "𒋠",
+   "readings": [
+    "sik₂",
+    "lahrumₓ",
+    "seg₂",
+    "sig₂",
+    "siki"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "50": {
+   "sign": "|NINDA₂×NE|",
+   "mzl": 326,
+   "ucun": "𒉘",
+   "readings": [
+    "ag₂",
+    "aga₂",
+    "aŋ₂",
+    "aŋa₂",
+    "aka₂"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "167": {
+   "sign": "KIŠ",
+   "mzl": 678,
+   "ucun": "𒆧",
+   "readings": [
+    "kiš",
+    "erraₓ",
+    "ilₓ",
+    "keš",
+    "keše"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "85": {
+   "sign": "NIM",
+   "mzl": 690,
+   "ucun": "𒉏",
+   "readings": [
+    "nim",
+    "alamaₓ",
+    "deh₃",
+    "dehi₃",
+    "dih₃"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "149": {
+   "sign": "EL",
+   "mzl": 899,
+   "ucun": "𒂖",
+   "readings": [
+    "el",
+    "dam₀",
+    "ele₂",
+    "eš₁₄",
+    "il₅"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "372": {
+   "sign": "NAGAR",
+   "mzl": 893,
+   "ucun": "𒉄",
+   "readings": [
+    "nagar",
+    "alla",
+    "bulug₄",
+    "e₁₀",
+    "haia"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "93": {
+   "sign": "|HU.HI|",
+   "mzl": 137,
+   "ucun": "𒄷𒄭",
+   "readings": [
+    "mat₃",
+    "mu₁₂",
+    "mud",
+    "mut",
+    "muṭ"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "348": {
+   "sign": "|LAGAB×U|",
+   "mzl": 786,
+   "ucun": "𒇥",
+   "readings": [
+    "addaₓ",
+    "bu₄",
+    "burₓ",
+    "dul₂",
+    "duluₓ"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "329": {
+   "sign": "SUD",
+   "mzl": 584,
+   "ucun": "𒋤",
+   "readings": [
+    "sud",
+    "sar₄",
+    "ser",
+    "siₓ",
+    "sir"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "269": {
+   "sign": "|DIM×ŠE|",
+   "mzl": 168,
+   "ucun": "𒁵",
+   "readings": [
+    "gakkul₂",
+    "kakkul₂",
+    "mun",
+    "munu"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "280": {
+   "sign": "GEŠTIN",
+   "mzl": 212,
+   "ucun": "𒃾",
+   "readings": [
+    "geštin",
+    "dinₓ",
+    "%elx geštin@d",
+    "geština",
+    "ŋeštin"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "316": {
+   "sign": "UMUM",
+   "mzl": 547,
+   "ucun": "𒌣",
+   "readings": [
+    "umum",
+    "simug",
+    "umun₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "230": {
+   "sign": "PAN",
+   "mzl": 685,
+   "ucun": "𒉼",
+   "readings": [
+    "pan",
+    "ba₁₀?",
+    "ban",
+    "bana",
+    "pana"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "175": {
+   "sign": "|AK×ERIN₂|",
+   "mzl": 129,
+   "ucun": "𒀞",
+   "readings": [
+    "me₃"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "71": {
+   "sign": null,
+   "mzl": 271,
+   "readings": [],
+   "ucun": null,
+   "status": "absent_from_ogsl"
+  },
+  "262": {
+   "sign": "HUB₂",
+   "mzl": 149,
+   "ucun": "𒄸",
+   "readings": [
+    "hub₂",
+    "duₓ",
+    "hup₂",
+    "kup₃",
+    "tu₁₁"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "313": {
+   "sign": "GURUN",
+   "mzl": 503,
+   "ucun": "𒄧",
+   "readings": [
+    "gurun",
+    "bur₇",
+    "buru₇",
+    "gamₓ",
+    "gurin"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "123": {
+   "sign": "TUM",
+   "mzl": 354,
+   "ucun": "𒌈",
+   "readings": [
+    "tum",
+    "dam₃",
+    "du₄",
+    "dum",
+    "eb₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "294": {
+   "sign": "|GUM×ŠE|",
+   "mzl": 340,
+   "ucun": "𒄤",
+   "readings": [
+    "gas",
+    "gaṣ",
+    "gaz",
+    "gaza",
+    "kas₃"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "317": {
+   "sign": "3(BAN₂)",
+   "mzl": 549,
+   "ucun": "𒑑",
+   "readings": [
+    "3(ban₂)"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "206": {
+   "sign": "|3×AN|",
+   "mzl": 247,
+   "ucun": "𒀯",
+   "readings": [
+    "kunga₃",
+    "kungi₃",
+    "mul",
+    "mulu",
+    "munₓ"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "326": {
+   "sign": "ALAN",
+   "mzl": 573,
+   "ucun": "𒀩",
+   "readings": [
+    "alan",
+    "al₂",
+    "alag",
+    "alaŋ",
+    "alala"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "268": {
+   "sign": "|EN×GAN₂|",
+   "mzl": 165,
+   "ucun": "𒂘",
+   "readings": [
+    "šibirₓ"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "318": {
+   "sign": "4(BAN₂)",
+   "mzl": 550,
+   "ucun": "𒑒",
+   "readings": [
+    "4(ban₂)"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "74": {
+   "sign": "IL₂",
+   "mzl": 493,
+   "ucun": "𒅍",
+   "readings": [
+    "il₂",
+    "agaₓ",
+    "dubsig",
+    "dubsik",
+    "dunₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "244": {
+   "sign": "|KA×SA|",
+   "mzl": 32,
+   "ucun": "𒅾",
+   "readings": [
+    "dunₓ",
+    "mangaga?",
+    "su₆",
+    "sul₃",
+    "sum₄"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "335": {
+   "sign": "SUHUR",
+   "mzl": 646,
+   "ucun": "𒋦",
+   "readings": [
+    "suhur",
+    "suh₂?",
+    "sumur₂",
+    "ubi₂",
+    "ugab"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "319": {
+   "sign": "5(BAN₂)",
+   "mzl": 551,
+   "ucun": "𒑔",
+   "readings": [
+    "5(ban₂)"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "309": {
+   "sign": "2(BAN₂)",
+   "mzl": 465,
+   "ucun": "𒑐",
+   "readings": [
+    "2(ban₂)",
+    "bamen",
+    "bamin",
+    "banmin"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "343": {
+   "sign": "|LAGAR×ŠE|",
+   "mzl": 722,
+   "ucun": "𒇭",
+   "readings": [
+    "su₇",
+    "sug₈",
+    "sul₄",
+    "sululₓ",
+    "sur₁₂"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "236": {
+   "sign": "ŠEN",
+   "mzl": 17,
+   "ucun": "𒊿",
+   "readings": [
+    "šen",
+    "dur₁₀",
+    "rik₄",
+    "rug",
+    "ruk"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "138": {
+   "sign": "GA₂",
+   "mzl": 387,
+   "ucun": "𒂷",
+   "readings": [
+    "ga₂",
+    "alba",
+    "ba₄",
+    "bešeŋ",
+    "bisag"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "263": {
+   "sign": "|HUB₂×UD|",
+   "mzl": 150,
+   "ucun": "𒄽",
+   "readings": [
+    "hub",
+    "hup",
+    "qup₂?",
+    "tahta",
+    "tahtu"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "197": {
+   "sign": "EDIN",
+   "mzl": 300,
+   "ucun": "𒂔",
+   "readings": [
+    "edin",
+    "bilₓ",
+    "bir₄",
+    "dinₓ",
+    "eden"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "60": {
+   "sign": "|ŠE.NUN&NUN|",
+   "mzl": 587,
+   "ucun": "𒌁",
+   "readings": [
+    "ašnanₓ",
+    "dir₄",
+    "ezina₃",
+    "ezinam₃",
+    "ezinu₃"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "290": {
+   "sign": "|NINDA₂×NUN|",
+   "mzl": 324,
+   "ucun": "𒉙",
+   "readings": [],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "150": {
+   "sign": "GAŠAN",
+   "mzl": 562,
+   "ucun": "𒃽",
+   "readings": [
+    "gašan",
+    "ugun₂",
+    "ugunu₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "360": {
+   "sign": "ŠANABI",
+   "mzl": 832,
+   "ucun": "𒑛",
+   "readings": [
+    "šanabi",
+    "šanaba",
+    "šanapi",
+    "šudaminₓ?",
+    "2/3(aš)"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "267": {
+   "sign": "UMBIN",
+   "mzl": 160,
+   "ucun": "𒌢",
+   "readings": [
+    "umbin",
+    "sigₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "286": {
+   "sign": "NAGA",
+   "mzl": 293,
+   "ucun": "𒉀",
+   "readings": [
+    "naga",
+    "ereš₂",
+    "eriš₂",
+    "hamunₓ",
+    "hilib₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [
+    "NAGA@180"
+   ],
+   "status": "ogsl"
+  },
+  "275": {
+   "sign": "DAR",
+   "mzl": 183,
+   "ucun": "𒁯",
+   "readings": [
+    "dar",
+    "daₓ",
+    "dara₆",
+    "daš₄?",
+    "dir₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "339": {
+   "sign": "DUGUD",
+   "mzl": 704,
+   "ucun": "𒂂",
+   "readings": [
+    "dugud",
+    "duguₓ",
+    "duguda",
+    "dukudₓ",
+    "geₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "346": {
+   "sign": "|LAGAB×(GUD&GUD)|",
+   "mzl": 766,
+   "ucun": "𒇇",
+   "readings": [
+    "dabₓ",
+    "dibₓ",
+    "gana₄",
+    "ganam₄",
+    "gayayu"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "278": {
+   "sign": "UZ₃",
+   "mzl": 203,
+   "ucun": "𒍚",
+   "readings": [
+    "uz₃",
+    "surₓ",
+    "ud₅",
+    "uda₅",
+    "us₃?"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "270": {
+   "sign": "AŠGAB",
+   "mzl": 173,
+   "ucun": "𒀿",
+   "readings": [
+    "ašgab",
+    "erib",
+    "irib",
+    "šigagu",
+    "šikangu"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "368": {
+   "sign": "HUL₂",
+   "mzl": 877,
+   "ucun": "𒄾",
+   "readings": [
+    "hul₂",
+    "bibra",
+    "bibri",
+    "hula₂",
+    "kuš₈"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "169": {
+   "sign": "|IGI.EŠ₂|",
+   "mzl": 732,
+   "ucun": "𒅆𒂠",
+   "readings": [
+    "libir",
+    "si₅"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "207": {
+   "sign": "MAŠ₂",
+   "mzl": 130,
+   "ucun": "𒈧",
+   "readings": [
+    "maš₂",
+    "kun₈"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "238": {
+   "sign": "GIR₂@g",
+   "mzl": 7,
+   "ucun": "𒄉",
+   "readings": [
+    "ad₂",
+    "adda₄",
+    "addu₃",
+    "ariₓ",
+    "at₂"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "306": {
+   "sign": "KISAL",
+   "mzl": 435,
+   "ucun": "𒆦",
+   "readings": [
+    "kisal",
+    "bur₆",
+    "dag₄?",
+    "giparₓ",
+    "ŋepar"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "333": {
+   "sign": "|UD.KUŠU₂|",
+   "mzl": 611,
+   "ucun": "𒌔",
+   "readings": [
+    "ah₆",
+    "akšak",
+    "garu",
+    "huya",
+    "keš₁₈"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "295": {
+   "sign": "UR₂",
+   "mzl": 341,
+   "ucun": "𒌫",
+   "readings": [
+    "ur₂",
+    "uru₈"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "273": {
+   "sign": "|GU₂×NUN|",
+   "mzl": 177,
+   "ucun": "𒄛",
+   "readings": [
+    "munsub₃",
+    "musub₃",
+    "sub₃",
+    "usan",
+    "usian"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "305": {
+   "sign": "|GA₂×SAL|",
+   "mzl": 432,
+   "ucun": "𒃣",
+   "readings": [
+    "am₅",
+    "ama₅",
+    "ame₂",
+    "ami₂",
+    "arhuš"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "239": {
+   "sign": "BUR₂",
+   "mzl": 8,
+   "ucun": "𒁔",
+   "readings": [
+    "bur₂",
+    "bal₂",
+    "bu₈",
+    "bul₂",
+    "bulug₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "283": {
+   "sign": "AB@g",
+   "mzl": 232,
+   "ucun": "𒀕",
+   "readings": [
+    "ab₄",
+    "aba₄",
+    "eri₁₁",
+    "erigal₂",
+    "erim₅"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "9": {
+   "sign": "|IGI.UR|",
+   "mzl": 733,
+   "ucun": "𒅆𒌨",
+   "readings": [
+    "hul",
+    "hula",
+    "hulu"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "274": {
+   "sign": "SI@g",
+   "mzl": 182,
+   "ucun": "𒋜",
+   "readings": [
+    "gunuₓ",
+    "sa₁₁",
+    "si₄",
+    "su₄",
+    "%akk śi₂"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "271": {
+   "sign": "GAN₂",
+   "mzl": 174,
+   "ucun": "𒃷",
+   "readings": [
+    "gan₂",
+    "al₃?",
+    "alalₓ",
+    "aša₅",
+    "ašag"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [
+    "|AŠ.GAN₂|"
+   ],
+   "status": "ogsl"
+  },
+  "323": {
+   "sign": "IGI@g",
+   "mzl": 564,
+   "ucun": "𒅊",
+   "readings": [
+    "agar₄",
+    "igi₂",
+    "igigunuₓ",
+    "imma₃",
+    "nab₄"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "247": {
+   "sign": "|KA×ŠU|",
+   "mzl": 49,
+   "ucun": "𒆃",
+   "readings": [
+    "adabₓ",
+    "burₓ",
+    "subₓ",
+    "šeₓ",
+    "šedₓ"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "345": {
+   "sign": "LAL₂",
+   "mzl": 751,
+   "ucun": "𒇳",
+   "readings": [
+    "lal₂",
+    "kurnun?",
+    "la₅",
+    "laʾu",
+    "lal-lal"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "332": {
+   "sign": "|ŠA₃×A|",
+   "mzl": 608,
+   "ucun": "𒊯",
+   "readings": [
+    "ber₇",
+    "bir₇",
+    "isla",
+    "isli",
+    "iškila?"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "166": {
+   "sign": "|NIM×GAN₂@t|",
+   "mzl": 691,
+   "ucun": "𒉐",
+   "readings": [
+    "kir₁₇",
+    "kuₓ",
+    "tu₂₅",
+    "tum₃",
+    "tumu₃"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "253": {
+   "sign": "KAM₄",
+   "mzl": 97,
+   "ucun": "𒆛",
+   "readings": [
+    "kam₄",
+    "gam₃",
+    "isubuₓ",
+    "kimₓ",
+    "qamₓ"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [
+    "ZUBI",
+    "|PAP.NA₂|"
+   ],
+   "status": "ogsl"
+  },
+  "315": {
+   "sign": "SAG@g",
+   "mzl": 512,
+   "ucun": "𒊨",
+   "readings": [
+    "alanₓ",
+    "andulₓ",
+    "dil₂",
+    "dul₃",
+    "kuš₂"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "371": {
+   "sign": "|GU%GU|",
+   "mzl": 892,
+   "ucun": "𒄗",
+   "readings": [
+    "saₓ",
+    "sah₄",
+    "sih₅",
+    "suh₃",
+    "zaₓ"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "304": {
+   "sign": "|GA₂×GAR|",
+   "mzl": 431,
+   "ucun": "𒃌",
+   "readings": [
+    "egara",
+    "eŋara",
+    "galga",
+    "ŋalga",
+    "išhara"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "325": {
+   "sign": "ŠA₆",
+   "mzl": 571,
+   "ucun": "𒊷",
+   "readings": [
+    "ša₆",
+    "a₁₀?",
+    "gešimmar",
+    "gešnimbar",
+    "gišimmar"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "308": {
+   "sign": "|DAG.KISIM₅×(LU.MAŠ₂)|",
+   "mzl": 460,
+   "ucun": "𒁦",
+   "readings": [
+    "amaš",
+    "amaša",
+    "haraₓ",
+    "kisim₃",
+    "ua₄"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "128": {
+   "sign": "|NUN&NUN|",
+   "mzl": 502,
+   "ucun": "𒉪",
+   "readings": [
+    "lurₓ",
+    "nar₃",
+    "naraₓ",
+    "nenerₓ",
+    "ner"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "127": {
+   "sign": "UDUG",
+   "mzl": 833,
+   "ucun": "𒌜",
+   "readings": [
+    "udug",
+    "gidim₄",
+    "%akk/n rābiṣu",
+    "šedu₂",
+    "%akk/n šēdu"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "251": {
+   "sign": "|URU×BAR|",
+   "mzl": 73,
+   "ucun": "𒌺",
+   "readings": [
+    "barimₓ",
+    "kiŋₓ",
+    "kin₅?",
+    "ukken",
+    "ukkin"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "199": {
+   "sign": "|KA×NUN|",
+   "mzl": 31,
+   "ucun": "𒅻",
+   "readings": [
+    "lubduₓ",
+    "namduₓ",
+    "numdu",
+    "numdum",
+    "numdun"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "63": {
+   "sign": "|TA×HI|",
+   "mzl": 170,
+   "readings": [],
+   "ucun": null,
+   "status": "mzl_kwu_concordance",
+   "source": "00etc/mzl-kwu.tsv (MZL170)"
+  },
+  "243": {
+   "sign": "|KA×BAD|",
+   "mzl": 29,
+   "ucun": "𒅜",
+   "readings": [
+    "uh₄",
+    "uhhu",
+    "uš₁₁"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "180": {
+   "sign": "|IGI.RU|",
+   "mzl": 725,
+   "ucun": "𒅆𒊒",
+   "readings": [
+    "pa₃",
+    "pad₃"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "314": {
+   "sign": "GU₂@g",
+   "mzl": 509,
+   "ucun": "𒄝",
+   "readings": [
+    "mudₓ",
+    "munsub₄",
+    "musub₄",
+    "usaₓ",
+    "usan₂"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "334": {
+   "sign": "|NUNUZ.AB₂×X|",
+   "mzl": 614,
+   "ucun": "𒉭X",
+   "readings": [
+    "huburₓ",
+    "mudₓ",
+    "xdiₓ",
+    "xgidaₓ"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "162": {
+   "sign": "|URU×IGI|",
+   "mzl": 79,
+   "ucun": "𒍂",
+   "readings": [
+    "asaₓ",
+    "asal",
+    "asar",
+    "asara",
+    "asari"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "344": {
+   "sign": "PEŠ₂~v",
+   "mzl": 741,
+   "ucun": "𒎔",
+   "readings": [],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "297": {
+   "sign": "DU@s",
+   "mzl": 352,
+   "ucun": "𒁽",
+   "readings": [
+    "%akk/n ālik",
+    "barim",
+    "gim₄",
+    "gir₅",
+    "giri₅"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "172": {
+   "sign": "ŠEŠ₂",
+   "mzl": 821,
+   "ucun": "𒋁",
+   "readings": [
+    "šeš₂",
+    "adkinₓ",
+    "še₈",
+    "šiš₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "324": {
+   "sign": "DUB₂",
+   "mzl": 565,
+   "ucun": "𒂀",
+   "readings": [
+    "dub₂",
+    "dim₅",
+    "duba₂",
+    "dubu₂",
+    "dup₂"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [
+    "BALAG"
+   ],
+   "status": "ogsl"
+  },
+  "33": {
+   "sign": "|LAGAB×KUL|",
+   "mzl": 761,
+   "ucun": "𒇒",
+   "readings": [
+    "esir₂",
+    "kunin",
+    "šukumₓ"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "246": {
+   "sign": "|KA×GA|",
+   "mzl": 44,
+   "ucun": "𒅢",
+   "readings": [
+    "simₓ",
+    "sub",
+    "šubₓ"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "257": {
+   "sign": "KAD₂",
+   "mzl": 108,
+   "ucun": "𒆐",
+   "readings": [
+    "kad₂",
+    "gat₂",
+    "kat₂",
+    "qad₆?",
+    "qat₆?"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "163": {
+   "sign": "GI₄",
+   "mzl": 507,
+   "ucun": "𒄄",
+   "readings": [
+    "gi₄",
+    "ga₈?",
+    "gagri?",
+    "ge₄",
+    "ki₈"
+   ],
+   "canonical_reading_first": true,
+   "readings_unranked": false,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "130": {
+   "sign": "KALAM@g",
+   "mzl": 501,
+   "ucun": "𒌦",
+   "readings": [
+    "kalamₓ",
+    "u₁₂",
+    "ug₃",
+    "uŋ₃",
+    "uku₃"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  },
+  "374": {
+   "sign": null,
+   "mzl": 925,
+   "readings": [],
+   "ucun": null,
+   "status": "invalid_mzl_number"
+  },
+  "298": {
+   "sign": "|ŠIM×A|",
+   "mzl": 372,
+   "ucun": "𒋇",
+   "readings": [
+    "dumgal",
+    "lumgi₂",
+    "lunga₂",
+    "ningi₂",
+    "nungi₂"
+   ],
+   "canonical_reading_first": false,
+   "readings_unranked": true,
+   "alternates": [],
+   "status": "ogsl"
+  }
+ },
+ "alternates": {
+  "565": [
+   "BALAG"
+  ],
+  "836": [
+   "DUN₃@g"
+  ],
+  "408": [
+   "|GA₂×ZIZ₂|"
+  ],
+  "338": [
+   "SUKUD"
+  ],
+  "174": [
+   "|AŠ.GAN₂|"
+  ],
+  "45": [
+   "|KA×SAR|"
+  ],
+  "51": [
+   "|KA×UD.BAR|"
+  ],
+  "293": [
+   "NAGA@180"
+  ],
+  "116": [
+   "NU₁₁@t"
+  ],
+  "92": [
+   "|PAP.PAP×ŠE|"
+  ],
+  "118": [
+   "TI@t"
+  ],
+  "97": [
+   "ZUBI",
+   "|PAP.NA₂|"
+  ],
+  "885": [
+   "|SAL.LAGAB×AŠ₂|"
+  ],
+  "593": [
+   "2(AŠ@t)"
+  ],
+  "863": [
+   "IMIN"
+  ],
+  "2": [
+   "|AŠ.AŠ|"
+  ]
+ },
+ "notes": {
+  "readings_are_alphabetical_not_ranked": true,
+  "mzl_declared_max": 907,
+  "mzl_kwu_harvest": {
+   "file": "00etc/mzl-kwu.tsv",
+   "filled": 0,
+   "check_lines_skipped": 16
+  }
+ }
+}

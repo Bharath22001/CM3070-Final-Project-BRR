@@ -1,0 +1,41 @@
+# Local-only: report documents
+Report_doc/
+
+# Python environments (rebuild from requirements.txt / requirements-dev.txt)
+fyp_env/
+fyp_env_rocm/
+
+# Model and download caches
+ollama_models/
+.hf_cache/
+.npm_cache/
+.pip_cache/
+
+# Front end: dependencies and build output (rebuild with npm install / npm run build)
+web/node_modules/
+web/dist/
+
+# Oracc Global Sign List checkout (CC0, re-download with fetch_signlist.py)
+artifacts/domain3/ogsl/osl-master/
+
+# Domain 2 checkpoint (167 MB, over GitHub's file limit): attached to the v1.0 Release
+artifacts/domain2/checkpoints/
+
+# Tablet photographs from CDLI, and every file cut from or drawn on them.
+# No licence allows republishing them. See README.
+cuneiform_data/images/
+cuneiform_data/cuneiform-sign-detection-dataset/images/
+cuneiform_data/tiles_512/
+yolo_dataset/images/
+artifacts/domain1/live_detections/*_overlay.jpg
+artifacts/domain1/*.jpg
+artifacts/part8/
+artifacts/uploads/
+runs/domain1_local_v1/train_batch*.jpg
+runs/domain1_local_v1/val_batch*.jpg
+
+# Generated
+__pycache__/
+*.pyc
+.pytest_cache/
+.tmp/
