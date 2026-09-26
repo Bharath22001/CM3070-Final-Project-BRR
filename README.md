@@ -84,10 +84,21 @@ I developed this on Windows with Python 3.12.10 and Node 22.
    ```
 4. Model weights. The fine-tuned detector is included at
    `artifacts/domain1/weights/domain1_best.pt`. The Domain 2 checkpoint is
-   167 MB, which is over GitHub's file size limit, so it is not stored in the
-   repository itself. It belongs in
-   `artifacts/domain2/checkpoints/domain2_distilroberta_pretrained/`.
-   **[How to get it: to be added.]**
+   about 175 MB, which is over GitHub's file size limit, so I published it as
+   a release instead:
+   [v1.0 release](https://github.com/Bharath22001/CM3070-Final-Project-BRR/releases/tag/v1.0).
+   Download both `config.json` and `model.safetensors` from it and put them in
+   `artifacts/domain2/checkpoints/domain2_distilroberta_pretrained/` (create
+   the folder if it isn't there). In PowerShell, from the project root:
+   ```
+   $dir = "artifacts/domain2/checkpoints/domain2_distilroberta_pretrained"
+   $url = "https://github.com/Bharath22001/CM3070-Final-Project-BRR/releases/download/v1.0"
+   New-Item -ItemType Directory -Force $dir
+   Invoke-WebRequest "$url/config.json" -OutFile "$dir/config.json"
+   Invoke-WebRequest "$url/model.safetensors" -OutFile "$dir/model.safetensors"
+   ```
+   Without these two files the reading, the evaluation and the tests marked
+   `slow` can't load the sequence model.
 
 5. Tablet photographs. These are **not** in the repository. The 75 photos I
    worked from come from the Cuneiform Digital Library Initiative (CDLI)
